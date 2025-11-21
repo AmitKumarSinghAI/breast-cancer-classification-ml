@@ -17,8 +17,7 @@ insights.
 
 ## 📂 Dataset
 
-Dataset provided by scikit-learn (Breast Cancer Wisconsin Diagnostic
-Dataset).
+From **Kaggle**
 
 ## 🛠️ Tech Stack
 
@@ -47,20 +46,20 @@ Evaluated using accuracy, confusion matrix, and classification report.
 
 ## 🏆 Performance
 
-Best model accuracy: **97--99%** depending on train/test split.
+Best model accuracy: **0.991** depending on train/test split.
+Best recall: **1.0** depending on train/test split.
+Best precision: **0.9772** depending on train/test split.
 
 ## 📌 How to Run
 
 ``` bash
 git clone https://github.com/your-username/breast-cancer-classification-ml.git
-pip install -r requirements.txt
 jupyter notebook "cancer prediction.ipynb"
 ```
 
 ## 📝 Project Structure
 
     README.md
-    requirements.txt
     cancer prediction.ipynb
 
 ## ⭐ Support
