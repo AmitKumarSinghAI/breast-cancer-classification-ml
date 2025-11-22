@@ -2,7 +2,7 @@
 
 This project builds a machine learning model to classify whether a tumor
 is **malignant** or **benign** using the **Breast Cancer Wisconsin
-Dataset**.\
+Dataset**.
 The goal is to help in early cancer detection using data-driven
 insights.
 
